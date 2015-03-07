@@ -10,6 +10,6 @@ Manual for Using GitHub
 
 Uncommit Changes - Commit changes - Sycn wuth the remote server:  
 
-8.- 
+
 The repository includes png files with the instructions
 For deleteinga  local reposiroty is right-button (Its Trivial)
