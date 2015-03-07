@@ -8,7 +8,7 @@ Manual for Using GitHub
 6.- Clone the GitHub Repository
 7.- Open in an explorer, work with the files and then in the local application
 
-Uncommit Chnages 
+Uncommit Changes - Commit changes - Sycn wuth the remote server:  
 
 8.- 
 The repository includes png files with the instructions
